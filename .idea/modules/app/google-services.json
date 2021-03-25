@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49957337623",
+    "firebase_url": "https://intagramproject-f823e.firebaseio.com",
+    "project_id": "intagramproject-f823e",
+    "storage_bucket": "intagramproject-f823e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49957337623:android:0e3b7d2d79df64aca93a52",
+        "android_client_info": {
+          "package_name": "com.example.intagram_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49957337623-ajsagkfg0u7iibupktafr1u6pmcmpisv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intagram_project",
+            "certificate_hash": "1701c22c841f82a7b0a9d0ca713186746399ee5e"
+          }
+        },
+        {
+          "client_id": "49957337623-n3eo6noh25hgigvm6ugbodcoc9u88u1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsFiUtuKrNeU16xALK6c6AEovX8ugGk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49957337623-n3eo6noh25hgigvm6ugbodcoc9u88u1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
